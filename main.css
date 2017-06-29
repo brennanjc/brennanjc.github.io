@@ -1,0 +1,19 @@
+body{
+    background-color: pink;
+    font-family: 'Spectral', serif;
+}
+#vity{
+    color: brown;
+}
+
+#div{
+    background-color: brown;
+}
+
+#image{
+    width: 40%;
+    display: block;
+    margin: auto;
+    padding: 20px;
+    
+}
